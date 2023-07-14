@@ -1,0 +1,68 @@
+{"recipes":[  
+    {
+        "name":"Lasagna", 
+        "description":"Simple flavorful lasagna. Don't be turned away by the amount of ingredients.",
+        "type":"dinner",
+        "image":"https://www.allrecipes.com/thmb/MkKfYU4oim55CLp39DDuNMuyThA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/23600-worlds-best-lasagna-armag-4x3-1-b24f9ad518d74090bf197828492c64a6.jpg",
+        "ingrediants": [
+            {"item":"1 pound sweet Italian sausage"},
+            {"item":"¾ pound lean ground beef"},
+            {"item":"½ cup minced onion"},
+            {"item":"2 cloves garlic, crushed"},
+            {"item":"1 (28 ounce) can crushed tomatoes"},
+            {"item":"2 (6.5 ounce) cans canned tomato sauce"},
+            {"item":"2 (6 ounce) cans tomato paste"},
+            {"item":"½ cup water"},
+            {"item":"2 tablespoons white sugar"},
+            {"item":"4 tablespoons chopped fresh parsley, divided"},
+            {"item":"1 ½ teaspoons dried basil leaves"},
+            {"item":"1 ½ teaspoons salt, divided, or to taste"},
+            {"item":"1 teaspoon Italian seasoning"},
+            {"item":"½ teaspoon fennel seeds"},
+            {"item":"¼ teaspoon ground black pepper"},
+            {"item":"12 lasagna noodles"},
+            {"item":"16 ounces ricotta cheese"},
+            {"item":"1 egg"},
+            {"item":"¾ pound mozzarella cheese, sliced"},
+            {"item":"¾ cup grated Parmesan cheese"}
+        ],
+        "steps": [
+            {"step":"Gather all your ingredients."},
+            {"step":"Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned."},
+            {"step":"Stir in crushed tomatoes, tomato sauce, tomato paste, and water. Season with sugar, 2 tablespoons parsley, basil, 1 teaspoon salt, Italian seasoning, fennel seeds, and pepper. Simmer, covered, for about 1 1/2 hours, stirring occasionally."},
+            {"step":"Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water."},
+            {"step":"In a mixing bowl, combine ricotta cheese with egg, remaining 2 tablespoons parsley, and 1/2 teaspoon salt."},
+            {"step":"Preheat the oven to 375 degrees F (190 degrees C)."},
+            {"step":"To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with 1/2 of the ricotta cheese mixture. Top with 1/3 of the mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese."},
+            {"step":"Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray or make sure the foil does not touch the cheese."},
+            {"step":"Bake in the preheated oven for 25 minutes. Remove the foil and bake for an additional 25 minutes."},
+            {"step":"Rest lasagna for 15 minutes before serving."}
+        ]
+    },
+    {
+        "name":"", 
+        "description":"",
+        "image":"",
+        "ingrediants": [
+            {"item":""},
+            {"item":""}
+        ],
+        "steps": [
+            {"step":""},
+            {"step":""}
+        ]
+    }, 
+    {
+        "name":"", 
+        "description":"",
+        "image":"",
+        "ingrediants": [
+            {"item":""},
+            {"item":""}
+        ],
+        "steps": [
+            {"step":""},
+            {"step":""}
+        ]
+    }   
+]}  
