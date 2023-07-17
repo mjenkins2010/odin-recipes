@@ -4,7 +4,7 @@
         "description":"Simple flavorful lasagna. Don't be turned away by the amount of ingredients.",
         "type":"dinner",
         "image":"https://www.allrecipes.com/thmb/MkKfYU4oim55CLp39DDuNMuyThA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/23600-worlds-best-lasagna-armag-4x3-1-b24f9ad518d74090bf197828492c64a6.jpg",
-        "ingrediants": [
+        "ingredients": [
             {"item":"1 pound sweet Italian sausage"},
             {"item":"¾ pound lean ground beef"},
             {"item":"½ cup minced onion"},
@@ -40,29 +40,41 @@
         ]
     },
     {
-        "name":"", 
-        "description":"",
-        "image":"",
-        "ingrediants": [
-            {"item":""},
-            {"item":""}
+        "name":"Honey Garlic Pork Chops", 
+        "description":"A quick and simple grilled pork chop that everyone will love featuring a simple and easy glaze.",
+        "image":"https://www.allrecipes.com/thmb/IkLMWcghYJ68d70bxcNTPv4gUpA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/235158-worlds-best-honey-garlic-pork-chops-DDMFS-4x3-6d16c2884cdd407eb8e1e2f494791542.jpg",
+        "ingredients": [
+            {"item":"½ cup ketchup"},
+            {"item":"2 ⅔ tablespoons honey"},
+            {"item":"2 tablespoons low-sodium soy sauce"},
+            {"item":"2 cloves garlic, crushed"},
+            {"item":"6 (4 ounce) (1-inch thick) pork chops"}
         ],
         "steps": [
-            {"step":""},
-            {"step":""}
+            {"step":"Preheat grill for medium heat and lightly oil the grate. Gather ingredients."},
+            {"step":"Whisk ketchup, honey, soy sauce, and garlic together in a bowl to make a glaze."},
+            {"step":"Sear the pork chops on both sides on the preheated grill. Lightly brush glaze onto each side of the chops as they cook; grill until no longer pink in the center, about 7 to 9 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."},
+            {"step":"Serve hot and enjoy!"}
         ]
     }, 
     {
-        "name":"", 
-        "description":"",
-        "image":"",
-        "ingrediants": [
-            {"item":""},
-            {"item":""}
+        "name":"Tater Tot Casserole", 
+        "description":"This Tater Tot casserole is a quick and easy dinner that everyone will love. Just four basic ingredients come together for this comforting dish.",
+        "image":"https://www.allrecipes.com/thmb/28tu8qXLRl3-q-a-brpoP0BmvHs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/222037-tater-tot-casserole-VAT-hero-02-4x3-62bf6b2219284d93ac5ef945bffe0dca.jpg",
+        "ingredients": [
+            {"item":"1 pound ground beef"},
+            {"item":"1 (10.5 ounce) can condensed cream of mushroom soup"},
+            {"item":"salt and ground black pepper to taste"},
+            {"item":"1 (16 ounce) package frozen tater tots"},
+            {"item":"2 cups shredded Cheddar cheese"}
         ],
         "steps": [
-            {"step":""},
-            {"step":""}
+            {"step":"Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C)."},
+            {"step":"Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until completely browned and crumbly, 7 to 10 minutes. Stir in condensed soup; season with salt and black pepper."},
+            {"step":"Transfer beef mixture to a 9x13-inch baking dish; layer tater tots evenly on top and sprinkle with Cheddar cheese."},
+            {"step":"Bake in the preheated oven until tater tots are golden brown and hot, 30 to 45 minutes."},
+            {"step":"Serve and enjoy!"}
         ]
     }   
 ]}  
+
